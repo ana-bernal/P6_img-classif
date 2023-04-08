@@ -6,10 +6,6 @@ As a first exercice with convolutionnal neural networks I built some models from
 
 A Hugging Face space for classification using the best performing model can be found [here](https://huggingface.co/spaces/ana-bernal/DogBreedClassification).
 
----
-
-#  🐕 Dog breed recognition: classification
-
 |   |   |
 |---|---|
 | Project  |    [Classez des images à l'aide d'algorithmes de Deep Learning](https://openclassrooms.com/fr/paths/148/projects/634/assignment)         |
