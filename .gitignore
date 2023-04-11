@@ -1,6 +1,8 @@
 *.jpg
 *.tar
+*.zip
 tb_logs/
 test_unseen/
 tune_scratch/
 tune_transfer_vgg/
+classez-des-images-a-l-aide-d-algorithmes-de-deep-learning_BERNAL-Ana/
